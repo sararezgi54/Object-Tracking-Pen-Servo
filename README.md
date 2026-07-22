@@ -1,6 +1,13 @@
 # Object Tracking with Servo Control
 
 A real-time object tracking project that uses OpenCV to detect a colored object via webcam and controls a servo motor through Arduino to mimic the object's horizontal movement.
+## Demo
+
+### Object Tracking
+![Object Tracking](demo1.gif)
+
+### Servo Movement
+![Servo Movement](demo2.gif)
 
 ## How It Works
 1. A webcam captures live video and detects the object using color-based tracking (HSV color space).
