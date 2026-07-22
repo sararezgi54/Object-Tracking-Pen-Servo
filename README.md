@@ -16,7 +16,7 @@ A real-time object tracking project that uses OpenCV to detect a colored object 
 ## Files
 - `tracker.py` — Python script for object detection and serial communication
 - `calibrate_hsv.py` — Helper script to calibrate HSV color range for tracking
-- `servo_control.ino` — Arduino sketch to receive angle commands and move the servo
+- `sketch_jul21a` — Arduino sketch to receive angle commands and move the servo
 
 ## Setup
 1. Install dependencies: `pip install opencv-python numpy pyserial`
